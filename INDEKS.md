@@ -43,6 +43,7 @@ diulang. Lihat isi tiap berkas untuk detail dan sumbernya:
 - [pelajaran/tailwind-v4.md](pelajaran/tailwind-v4.md) — Tailwind v4 beda dari v3, data latih AI sering salah
 
 - [pelajaran/setup-mcp-obsidian.md](pelajaran/setup-mcp-obsidian.md) — cara memasang MCP Obsidian (`obsidian-mcp-server` + plugin Local REST API) yang terbukti jalan, dan jebakan alamat/TLS/paket salah
+- [pelajaran/teknik-hero-scroll-3d.md](pelajaran/teknik-hero-scroll-3d.md) — resep hero produk scroll-3D murah (foto → Google Flow → EZGIF ke JPG sequence 30fps → AI coding agent render per-scroll), dikonfirmasi 2 sumber video independen
 
 ## Riset
 
