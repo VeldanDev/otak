@@ -30,6 +30,13 @@ untuk menutup gap yang ditemukan) `Cords/STANDAR.md`.
 Baca **Bagian 0 (Router)** dulu di `STANDAR.md` — dokumen itu berisi aturan
 untuk beberapa jenis pekerjaan berbeda, tidak semua berlaku sekaligus.
 
+`skills/` — `STANDAR.md`/`AGENTS.md` dipecah jadi 12 berkas per topik
+(progressive disclosure, lihat
+[pelajaran/arsitektur-memori-agent-anthropic.md](pelajaran/arsitektur-memori-agent-anthropic.md)).
+Baca [skills/INDEKS.md](skills/INDEKS.md) dulu — muat berkas skill lengkap
+hanya kalau relevan. Turunan, bukan pengganti; kalau ada pertentangan,
+`STANDAR.md`/`AGENTS.md` yang menang.
+
 ## Pelajaran lintas proyek
 
 Bug yang sudah dipecahkan, jebakan teknis, dan keputusan yang tidak boleh
