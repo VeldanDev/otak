@@ -13,9 +13,11 @@ banyak berubah sejak tanggal update terakhirnya (lihat kolom Update), percayai
 |---|---|---|---|---|
 | **Slidee** | Landing page pra-rilis untuk alat penjadwalan konten multi-platform | Live, waitlist jalan, belum ada pendaftar | 2026-08-16 | [proyek/slidee.md](proyek/slidee.md) |
 | **Cords** | Aplikasi sosial mobile web — "bidang" konten berkoordinat, bukan feed | Live di web + APK percobaan, backend jalan, belum dirilis ke penonton | 2026-08-09 | [proyek/cords.md](proyek/cords.md) |
+| **Shift Company** | Perusahaan induk Slidee/Cords/Wagon — belum ada repo, baru PRD + identitas visual final | Identitas visual diputuskan (Koordinat), situs belum dibangun | 2026-08-17 | [proyek/shift-company.md](proyek/shift-company.md) |
 
-Keduanya produk di bawah **Shift Company**. Slidee adalah percobaan pertama;
-Cords percobaan kedua yang sengaja mengoreksi pola gagal Slidee (lihat
+Ketiganya (Slidee, Cords, Wagon) produk di bawah **Shift Company**.
+Slidee adalah percobaan pertama; Cords percobaan kedua yang sengaja
+mengoreksi pola gagal Slidee (lihat
 [pelajaran/jangan-poles-sebelum-pengguna.md](pelajaran/jangan-poles-sebelum-pengguna.md)).
 
 ## Aturan lintas proyek
