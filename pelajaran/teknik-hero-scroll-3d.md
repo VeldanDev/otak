@@ -5,7 +5,10 @@ video `tutorwebprem.mp4` (screen-record 45 detik, contoh situs demo
 **DriveImport**). Pola yang sama juga muncul di
 `o4pRAfEgqNUeDoUo3LnpE9IUkGbLesA2rAChAo.mp4` (efek scroll-reveal
 **BuildorasHome**) — **dua sumber independen**, jadi polanya cukup mapan,
-bukan kebetulan satu kreator.
+bukan kebetulan satu kreator. Lihat juga
+[teknik-landing-page-prompt-library.md](teknik-landing-page-prompt-library.md)
+— jalur berbeda untuk tujuan serupa (situs animasi premium tanpa coding
+manual), pakai prompt siap-pakai + Claude Code, bukan pipeline foto→video.
 
 ## Resep (4 langkah)
 

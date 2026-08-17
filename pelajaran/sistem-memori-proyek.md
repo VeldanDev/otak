@@ -46,3 +46,12 @@ pernah terjadi.
 Cords `AGENTS.md` merujuk `STANDAR.md` tapi sebelumnya tidak punya
 salinannya sendiri di repo (ditemukan 2026-08-16). Sudah disalin dari
 `Website/slidee/STANDAR.md` ke `Cords/STANDAR.md` pada tanggal yang sama.
+
+## Referensi arsitektur lanjutan
+
+Sistem ini setara tahap 1 dari 4 tahap evolusi memori agent yang dijelaskan
+Anthropic (single file `CLAUDE.md` + `docs/memory/` terkurasi manual) — lihat
+[arsitektur-memori-agent-anthropic.md](arsitektur-memori-agent-anthropic.md)
+untuk tahap lanjutan (memory tool, skills, memory-as-filesystem) dan konsep
+"dreaming" (konsolidasi memori otomatis out-of-band) sebagai kandidat future
+work kalau volume proyek membesar.

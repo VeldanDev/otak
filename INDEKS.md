@@ -44,6 +44,9 @@ diulang. Lihat isi tiap berkas untuk detail dan sumbernya:
 
 - [pelajaran/setup-mcp-obsidian.md](pelajaran/setup-mcp-obsidian.md) — cara memasang MCP Obsidian (`obsidian-mcp-server` + plugin Local REST API) yang terbukti jalan, dan jebakan alamat/TLS/paket salah
 - [pelajaran/teknik-hero-scroll-3d.md](pelajaran/teknik-hero-scroll-3d.md) — resep hero produk scroll-3D murah (foto → Google Flow → EZGIF ke JPG sequence 30fps → AI coding agent render per-scroll), dikonfirmasi 2 sumber video independen
+- [pelajaran/teknik-landing-page-prompt-library.md](pelajaran/teknik-landing-page-prompt-library.md) — bikin landing page animasi dari prompt library ("motionsites") + Claude Code, deploy Vercel/Netlify — jalur lain menuju hasil serupa scroll-3D
+- [pelajaran/arsitektur-memori-agent-anthropic.md](pelajaran/arsitektur-memori-agent-anthropic.md) — talk Anthropic soal evolusi memori agent (CLAUDE.md → memory tool → skills → memory/) + konsep "dreaming" (konsolidasi out-of-band), relevan untuk future work sistem memori Otak sendiri
+- [pelajaran/claude-managed-agents-arsitektur.md](pelajaran/claude-managed-agents-arsitektur.md) — arsitektur + 7 fungsi kode Python untuk bangun agent di atas Claude Managed Agents API (agent/environment/session, event streaming, local tool handler) — referensi implementasi langsung-pakai dari workshop resmi Anthropic
 
 ## Riset
 
