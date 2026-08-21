@@ -56,6 +56,7 @@ diulang. Lihat isi tiap berkas untuk detail dan sumbernya:
 - [pelajaran/teknik-landing-page-prompt-library.md](pelajaran/teknik-landing-page-prompt-library.md) — bikin landing page animasi dari prompt library ("motionsites") + Claude Code, deploy Vercel/Netlify — jalur lain menuju hasil serupa scroll-3D
 - [pelajaran/arsitektur-memori-agent-anthropic.md](pelajaran/arsitektur-memori-agent-anthropic.md) — talk Anthropic soal evolusi memori agent (CLAUDE.md → memory tool → skills → memory/) + konsep "dreaming" (konsolidasi out-of-band), relevan untuk future work sistem memori Otak sendiri
 - [pelajaran/claude-managed-agents-arsitektur.md](pelajaran/claude-managed-agents-arsitektur.md) — arsitektur + 7 fungsi kode Python untuk bangun agent di atas Claude Managed Agents API (agent/environment/session, event streaming, local tool handler) — referensi implementasi langsung-pakai dari workshop resmi Anthropic
+- [pelajaran/drive-c-penuh.md](pelajaran/drive-c-penuh.md) — drive C tinggal 13 MB ternyata karena cache NVIDIA (19,8 GB) + npm-cache (5,7 GB) bertahun-tahun, bukan aplikasi (OpenClaw) yang baru dipasang — cek cache dulu sebelum menuduh
 
 ## Riset
 
